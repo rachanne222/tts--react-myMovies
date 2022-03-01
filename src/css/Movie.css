@@ -1,0 +1,12 @@
+.movie-body {
+	background-color: gray;
+	text-shadow: darksalmon;
+	color: white;
+	text-align: center;
+	inline-size: 400px;
+	overflow-wrap: break-word;
+}
+
+.mov {
+	color: pink;
+}
